@@ -12,7 +12,7 @@ body {
 .nav {
     background-color: #212121;
     height: 68px;
-    width: 99%;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -25,7 +25,6 @@ body {
     height: 40px;
     width: 180px;
     margin: 14px auto;
-    /* adjust the top and bottom margins to center vertically */
     margin-left: 4rem;
 }
 
@@ -251,4 +250,55 @@ span p {
     background-color: #353535;
     width: 953px;
     
+}
+
+.container4{
+
+        width: 100%;
+        height: 550px;
+        background-color: #212121;
+    
+}
+
+.join{
+    padding-top: 50px;
+    margin-left: 447px;
+    color: white;
+    font-size: 50px;
+}
+
+.box41{
+    border: 18px solid gold;
+    height: 180px;
+    width: 240px;
+    margin-top: 90px;
+
+    background-color: #353535;
+}
+
+.box42{
+    border: 18px solid gold;
+    height: 180px;
+    width: 240px;
+    margin-top: 90px;
+ border-radius: 25px;
+    background-color: #353535;
+}
+
+.box43{
+    border: 18px solid gold;
+    height: 180px;
+    width: 240px;
+    margin-top: 90px;
+    border-radius: 25px;
+    background-color: #353535;
+}
+
+.box44{
+    border: 18px solid gold;
+    height: 180px;
+    width: 240px;
+    margin-top: 90px;
+    border-radius: 25px;
+    background-color: #353535;
 }
