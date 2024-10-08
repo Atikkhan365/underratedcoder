@@ -43,7 +43,7 @@ ul li {
     font-family: sans-serif;
 }
 .list ul li:hover {
-    color: #FFCC00; /* or any other color you prefer */
+    color: #FFCC00;  
     cursor: pointer;
     
   }
