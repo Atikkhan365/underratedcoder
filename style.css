@@ -45,6 +45,7 @@ ul li {
 .list ul li:hover {
     color: #FFCC00;  
     cursor: pointer;
+    transition: .50s;
     
   }
 
