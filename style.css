@@ -178,6 +178,7 @@ span p{
     background-color: #212121;
     justify-content: center;
     display: flex;
+    margin: 0 auto;
     
 
    
@@ -185,12 +186,17 @@ span p{
 .contant3 h1{
     color: #fffdf3;
     margin-top: 5rem;
+   
 }
 .listcontainer{
-    border: #FFCC00;
-    height: 50px;
-    width: 50px;
+    background-color: #FFCC00;
+    margin-top: 9rem;
+    margin-left: -17rem;
+    width: 61rem;
+    height: 25rem;
+    
 }
+
 
 
 
