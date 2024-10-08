@@ -207,11 +207,11 @@ span p {
 
 .boxes {
     width: 953px;
-    height: 358px;
+    height: 355px;
     background-color: gold;
     margin-left: 187px;
     margin-top: 28px;
-    border-radius: 12px;
+    border-radius: 15px;
 }
 
 .box1 {
@@ -246,6 +246,7 @@ span p {
 
 .box2 h1 {
     font-size: 15px;
+    margin-left: 2rem;
 }
 
 
@@ -262,6 +263,7 @@ span p {
 
 .box3 h1 {
     font-size: 15px;
+    margin-left: 2rem;
 
 }
 
@@ -277,6 +279,7 @@ span p {
 .box4 h1 {
     font-size: 15px;
     color: #fffdf3;
+    margin-left: 2rem;
 
 }
 
@@ -289,6 +292,7 @@ span p {
 }
 
 .box5 h1 {
+    margin-left: 2rem;
     font-size: 15px;
 
 
@@ -300,12 +304,14 @@ span p {
     width: 953px;
     display: flex;
     align-items: center;
+    border-radius: 0 0 15px 15px;
 
 }
 
 .box6 h1 {
     font-size: 15px;
     color: #fffdf3;
+    margin-left: 2rem;
 
 }
 
