@@ -218,37 +218,88 @@ span p {
 .box1 {
     height: 58.8px;
     width: 953px;
+    display: flex;
+    gap: 6rem;
+    align-items: center;
+    
 }
+.box1 img{
+    width: 32px;
+    margin-left: 27rem;
+
+}
+.box1 p{
+    font-weight: bold;
+}
+
+
 
 .box2 {
     height: 59px;
     background-color: #353535;
-        width: 953px;
-}
+    width: 953px;
+    align-items: center;
+    display: flex;
+    color: #fffdf3;
+    }
+
+    .box2 h1{
+        font-size: 15px;
+    }
+
+
+    
 
 
 .box3 {
     height: 60px;
     width: 953px;
+    display: flex;
+    align-items: center;
  
+}
+.box3 h1{
+    font-size: 15px;
+
 }
 
 .box4 {
     height: 60px;
     background-color: #353535;  
       width: 953px;
+      display: flex;
+      align-items: center;
+
+}
+.box4 h1{
+    font-size: 15px;
+    color: #fffdf3;
 
 }
 
 .box5 {
     height: 60px;
     width: 953px;
+    display: flex;
+    align-items: center;
  
+}
+.box5 h1{
+    font-size: 15px;
+    
+
 }
 
 .box6 {
     height: 60px;
     background-color: #353535;
     width: 953px;
+    display: flex;
+    align-items: center;
     
+}
+.box6 h1{
+    font-size: 15px;
+    color: #fffdf3;
+
 }
