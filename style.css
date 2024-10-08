@@ -42,6 +42,11 @@ ul li {
     font-weight: 700;
     font-family: sans-serif;
 }
+.list ul li:hover {
+    color: #FFCC00; /* or any other color you prefer */
+    cursor: pointer;
+    
+  }
 
 #btnn {
     margin-right: 100px;
