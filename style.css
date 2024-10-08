@@ -297,61 +297,8 @@ span p {
     align-items: center;
     
 }
-<<<<<<< HEAD
-
-.container4{
-
-        width: 100%;
-        height: 550px;
-        background-color: #212121;
-    
-}
-
-.join{
-    padding-top: 50px;
-    margin-left: 447px;
-    color: white;
-    font-size: 50px;
-}
-
-.box41{
-    border: 18px solid gold;
-    height: 180px;
-    width: 240px;
-    margin-top: 90px;
-
-    background-color: #353535;
-}
-
-.box42{
-    border: 18px solid gold;
-    height: 180px;
-    width: 240px;
-    margin-top: 90px;
- border-radius: 25px;
-    background-color: #353535;
-}
-
-.box43{
-    border: 18px solid gold;
-    height: 180px;
-    width: 240px;
-    margin-top: 90px;
-    border-radius: 25px;
-    background-color: #353535;
-}
-
-.box44{
-    border: 18px solid gold;
-    height: 180px;
-    width: 240px;
-    margin-top: 90px;
-    border-radius: 25px;
-    background-color: #353535;
-=======
 .box6 h1{
     font-size: 15px;
     color: #fffdf3;
 
->>>>>>> 241728679cefa8fe2bd25d76e05ce211d9b42640
 }
