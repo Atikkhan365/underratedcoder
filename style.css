@@ -104,9 +104,34 @@ h6{
     width: 14rem;
     height: 3rem;
 }
-.content h1{
+#subject{
     margin-left: 9rem;
     margin-top: -4rem;
+    animation: changetext 5s infinite;
+}
+
+@keyframes changetext{
+    0%{
+        opacity: 1;
+        filter: blur(0);
+    }
+    45%{
+        opacity: 1;
+        filter: blur(0);
+    }
+    50%{
+        opacity: 1;
+        filter: blur(10px);
+    }
+    55%{
+        opacity: 1;
+        filter: blur(10px);
+    }
+    100%{
+        opacity: 1;
+        filter: blur(0);
+    }
+
 }
 .contain2{
     background-color: #FFCC00;
