@@ -381,3 +381,37 @@ span p {
     border-color: gold;
     border-radius: 25px;
 }
+
+.apps{
+    padding-top: 26px;
+    margin-left: 88px;
+    color: white;
+}
+
+.apk{
+    margin-left: 10px;
+    padding-top: 24px;
+    color: white;
+}
+
+.iconyt{
+    width: 54px;
+    margin-top: 16px;
+    margin-left: 12px;
+}
+
+.iconit{
+    width: 54px;
+    margin-top: 16px;
+    margin-left: 12px;
+}
+.iconli{
+    width: 54px;
+    margin-top: 16px;
+    margin-left: 12px;
+}
+.iconwt{
+    width: 54px;
+    margin-top: 16px;
+    margin-left: 12px;
+}
