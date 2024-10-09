@@ -4,3 +4,4 @@ setInterval(() => {
     index = (index + 1) % words.length;
     document.getElementById("subject").textContent = words[index];
 }, 5000);
+
