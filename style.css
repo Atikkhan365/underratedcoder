@@ -42,6 +42,12 @@ ul li {
     font-weight: 700;
     font-family: sans-serif;
 }
+.list ul li:hover {
+    color: #FFCC00;  
+    cursor: pointer;
+    transition: .50s;
+    
+  }
 
 #btnn {
     margin-right: 100px;
@@ -59,7 +65,7 @@ ul li {
 .content {
     height: 650px;
     border: 2px solid #212121;
-    width: 99%;
+    width: 100%;
     background-color: #212121;
     display: flex;
 
@@ -154,7 +160,7 @@ h6 {
 
 .contain2 {
     background-color: #FFCC00;
-    width: 99%;
+    width: 100%;
     height: 90vh;
     display: flex;
     gap: 3rem;
@@ -207,11 +213,11 @@ span p {
 
 .boxes {
     width: 953px;
-    height: 358px;
+    height: 355px;
     background-color: gold;
     margin-left: 187px;
     margin-top: 28px;
-    border-radius: 12px;
+    border-radius: 15px;
 }
 
 .box1 {
@@ -246,6 +252,7 @@ span p {
 
 .box2 h1 {
     font-size: 15px;
+    margin-left: 2rem;
 }
 
 
@@ -262,6 +269,7 @@ span p {
 
 .box3 h1 {
     font-size: 15px;
+    margin-left: 2rem;
 
 }
 
@@ -277,6 +285,7 @@ span p {
 .box4 h1 {
     font-size: 15px;
     color: #fffdf3;
+    margin-left: 2rem;
 
 }
 
@@ -289,6 +298,7 @@ span p {
 }
 
 .box5 h1 {
+    margin-left: 2rem;
     font-size: 15px;
 
 
@@ -300,12 +310,14 @@ span p {
     width: 953px;
     display: flex;
     align-items: center;
+    border-radius: 0 0 15px 15px;
 
 }
 
 .box6 h1 {
     font-size: 15px;
     color: #fffdf3;
+    margin-left: 2rem;
 
 }
 
