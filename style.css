@@ -61,6 +61,19 @@ ul li {
     border: #FFCC00;
 
 }
+@media only screen and (max-width:500px){
+    .list{
+        display: none;
+    }
+    #btnn{
+        display: none;
+    }
+    .nav{
+        display: flex;
+        justify-content: center;
+    }
+
+}
 
 .content {
     height: 650px;
